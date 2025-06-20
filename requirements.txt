@@ -1,0 +1,30 @@
+# Core
+pandas
+numpy
+scikit-learn
+
+# Clustering
+umap-learn
+hdbscan
+minisom
+
+# NLP
+transformers
+datasets
+torch
+spacy
+regex
+
+# Visualization
+matplotlib
+seaborn
+plotly
+folium  # optional, for geospatial map overlay
+
+# Persistence
+pymongo
+
+# Others
+tqdm
+joblib
+python-dotenv
